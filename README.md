@@ -13,8 +13,9 @@ Java solutions to CodeForces problems.
 | Jul 17, 2026 | 50A - Domino Piling<br>263A - Beautiful Matrix |
 | Jul 18, 2026 | 1A - Theatre Square<br>112A - Petya and Strings |
 | Jul 19, 2026 | 236A - Boy or Girl<br>339A - Helpful Maths |
+| Jul 20, 2026 | 281A - Word Capitalization<br>791A - Bear and Big Brother<br>617A - Elephant |
 
-Total Problems Solved: 11
+Total Problems Solved: 14
 
 Language: Java 21
 Platform: CodeForces
