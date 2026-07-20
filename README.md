@@ -11,8 +11,9 @@ Java solutions to CodeForces problems.
 | Jul 15, 2026 | 231A - Team |
 | Jul 16, 2026 | 282A - Bit++<br>158A - Next Round |
 | Jul 17, 2026 | 50A - Domino Piling<br>263A - Beautiful Matrix |
+| Jul 18, 2026 | 1A - Theatre Square<br>112A - Petya and Strings |
 
-Total Problems Solved: 7
+Total Problems Solved: 9
 
 Language: Java 21
 Platform: CodeForces
