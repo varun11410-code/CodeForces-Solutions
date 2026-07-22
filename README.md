@@ -15,8 +15,9 @@ Java solutions to CodeForces problems.
 | Jul 19, 2026 | 236A - Boy or Girl<br>339A - Helpful Maths |
 | Jul 20, 2026 | 281A - Word Capitalization<br>791A - Bear and Big Brother<br>617A - Elephant |
 | Jul 21, 2026 | 266A - Stones on the Table<br>546A - Soldier and Bananas |
+| Jul 22, 2026 | 118A - String Task<br>59A - Word |
 
-Total Problems Solved: 16
+Total Problems Solved: 18
 
 Language: Java 21
 Platform: CodeForces
