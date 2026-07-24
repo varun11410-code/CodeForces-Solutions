@@ -17,6 +17,7 @@ Java solutions to CodeForces problems.
 | Jul 21, 2026 | 266A - Stones on the Table<br>546A - Soldier and Bananas |
 | Jul 22, 2026 | 118A - String Task<br>59A - Word |
 | Jul 23, 2026 | 977A - Wrong Subtraction<br>69A - Young Physicist |
+| Jul 24, 2026 | 110A - Nearly Lucky Number<br>734A - Anton And Danik |
 
 Total Problems Solved: 20
 
