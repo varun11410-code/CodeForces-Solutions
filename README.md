@@ -18,8 +18,9 @@ Java solutions to CodeForces problems.
 | Jul 22, 2026 | 118A - String Task<br>59A - Word |
 | Jul 23, 2026 | 977A - Wrong Subtraction<br>69A - Young Physicist |
 | Jul 24, 2026 | 110A - Nearly Lucky Number<br>734A - Anton And Danik |
+| Jul 25, 2026 | 96A - Football |
 
-Total Problems Solved: 20
+Total Problems Solved: 23
 
 Language: Java 21
 Platform: CodeForces
