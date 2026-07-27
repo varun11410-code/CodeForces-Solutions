@@ -20,8 +20,9 @@ Java solutions to CodeForces problems.
 | Jul 24, 2026 | 110A - Nearly Lucky Number<br>734A - Anton And Danik |
 | Jul 25, 2026 | 96A - Football |
 | Jul 26, 2026 | 41A - Translation<br>677A - Vanya And Fence |
+| Jul 27, 2026 | 271A - BeautifulYear |
 
-Total Problems Solved: 25
+Total Problems Solved: 26
 
 Language: Java 21
 Platform: CodeForces
