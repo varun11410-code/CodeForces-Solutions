@@ -24,6 +24,7 @@ Java solutions to CodeForces problems.
 | Jul 28, 2026 | 116A - Tram |
 | Jul 29, 2026 | 58A - Chat Room |
 | Jul 30, 2026 | 344A - Magnets |
+| Jul 31, 2026 | 122A - Lucky Division |
 
 Total Problems Solved: 29
 
