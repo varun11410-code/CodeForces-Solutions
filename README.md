@@ -25,8 +25,9 @@ Java solutions to CodeForces problems.
 | Jul 29, 2026 | 58A - Chat Room |
 | Jul 30, 2026 | 344A - Magnets |
 | Jul 31, 2026 | 122A - Lucky Division |
+| Aug 1, 2026  | 200B - Drinks |
 
-Total Problems Solved: 29
+Total Problems Solved: 31
 
 Language: Java 21
 Platform: CodeForces
