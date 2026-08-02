@@ -26,8 +26,9 @@ Java solutions to CodeForces problems.
 | Jul 30, 2026 | 344A - Magnets |
 | Jul 31, 2026 | 122A - Lucky Division |
 | Aug 1, 2026  | 200B - Drinks |
+| Aug 2, 2026  | 136A - Presents |
 
-Total Problems Solved: 31
+Total Problems Solved: 32
 
 Language: Java 21
 Platform: CodeForces
