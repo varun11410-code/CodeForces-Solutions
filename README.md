@@ -31,8 +31,9 @@ Java solutions to CodeForces problems.
 | Aug 4, 2026  | 705A - Hulk |
 | Aug 5, 2026  | 1742A - Sum |
 | Aug 6, 2026  | 268A - Games |
+| Aug 7, 2026  | 230A - Dragons |
 
-Total Problems Solved: 36
+Total Problems Solved: 37
 
 Language: Java 21
 Platform: CodeForces
