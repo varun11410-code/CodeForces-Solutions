@@ -35,8 +35,9 @@ Java solutions to CodeForces problems.
 | Aug 8, 2026  | 337A - Puzzles |
 | Aug 19, 2026 | 1669A - Division |
 | Aug 20, 2026 | 1676A - Lucky? |
+| Aug 21, 2026 | 1692A - Marathon |
 
-Total Problems Solved: 40
+Total Problems Solved: 41
 
 Language: Java 21
 Platform: CodeForces
