@@ -38,8 +38,9 @@ Java solutions to CodeForces problems.
 | Aug 21, 2026 | 1692A - Marathon |
 | Aug 22, 2026 | 32B - Borze |
 | Aug 23, 2026 | 151A - Soft Drinking |
+| Aug 25, 2026 | 1901A - Line Trip<br>520A - Pangram |
 
-Total Problems Solved: 43
+Total Problems Solved: 45
 
 Language: Java 21
 Platform: CodeForces
