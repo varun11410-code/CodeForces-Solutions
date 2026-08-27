@@ -40,8 +40,9 @@ Java solutions to CodeForces problems.
 | Aug 23, 2026 | 151A - Soft Drinking |
 | Aug 25, 2026 | 1901A - Line Trip<br>520A - Pangram |
 | Aug 26, 2026 | 141A - Amusing Joke |
+| Aug 27, 2026 | 148A - Insomnia cure |
  
-Total Problems Solved: 46
+Total Problems Solved: 47
 
 Language: Java 21
 Platform: CodeForces
