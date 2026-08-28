@@ -41,8 +41,9 @@ Java solutions to CodeForces problems.
 | Aug 25, 2026 | 1901A - Line Trip<br>520A - Pangram |
 | Aug 26, 2026 | 141A - Amusing Joke |
 | Aug 27, 2026 | 148A - Insomnia cure |
+| Aug 28, 2026 | 1829B - Blank Space |
  
-Total Problems Solved: 47
+Total Problems Solved: 48
 
 Language: Java 21
 Platform: CodeForces
