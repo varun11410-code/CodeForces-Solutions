@@ -43,8 +43,9 @@ Java solutions to CodeForces problems.
 | Aug 27, 2026 | 148A - Insomnia cure |
 | Aug 28, 2026 | 1829B - Blank Space |
 | Aug 29, 2026 | 2009A - Minimize! |
+| Aug 30, 2026 | 1858A - Buttons |
  
-Total Problems Solved: 49
+Total Problems Solved: 50
 
 Language: Java 21
 Platform: CodeForces
